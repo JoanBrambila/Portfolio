@@ -1,6 +1,6 @@
 # Portfolio
 
-[Screenshot of My Application](./Assets/screen.jpg)
+[Screenshot of My Application](./assets/images/screen.jpg)
 
 ## Description
 
